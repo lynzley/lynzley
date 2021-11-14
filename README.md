@@ -8,7 +8,7 @@
 
 
 ## I am a learner
-###Education:
+Education:
 - Bachelor of Science in Informatics.
 - Currently pursuing my Master of Information Management at the University of Washington Information School.
 
