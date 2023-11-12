@@ -1,7 +1,7 @@
-# 🐦Hello, World! I'm Lynzley
+# 🐦 Hello, World! I'm Lynzley (she/her) 🐦
 
 ## I am working as a developer
-- I work as a software developer at Avanade.
+- I work as a front-end developer at Avanade.
 - I have experience with front-end and full-stack development.
 
 - I enjoy working with impactful and innovative technology.
@@ -9,8 +9,10 @@
 
 ## I am a learner
 Education:
+- Masters of Science in Information Management.
+Concentration: Program & Project Management and Consulting
+
 - Bachelor of Science in Informatics.
-- Currently pursuing my Master of Information Management at the University of Washington Information School.
 
 
 ## Fun Facts
